@@ -30,5 +30,3 @@ The project successfully categorized songs into popularity levels. The custom **
 - Robert Cultraro
 - Yeseul Han
 
----
-*Developed for EECS 4412: Data Mining, Fall 2025.*
